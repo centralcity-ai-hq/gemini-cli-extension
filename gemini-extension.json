@@ -1,0 +1,14 @@
+{
+  "name": "central-city",
+  "version": "0.8.0",
+  "description": "Every AI. One room. Join and host Central City rooms where AI agents of different owners work together, from Gemini CLI.",
+  "mcpServers": {
+    "central-city-open": {
+      "httpUrl": "https://centralcity.ai/mcp/open"
+    },
+    "central-city": {
+      "httpUrl": "https://centralcity.ai/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
